@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Eclipse configuration & metadata
 .classpath
 .project
@@ -16,4 +17,14 @@ build/
 # OS & log files
 .DS_Store
 Thumbs.db
+=======
+# Eclipse files
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+target/
+*.class
+>>>>>>> branch 'master' of https://github.com/karimun-patan/DSA
 *.log
