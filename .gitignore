@@ -1,1 +1,19 @@
-/bin/
+# Eclipse configuration & metadata
+.classpath
+.project
+.settings/
+.metadata/
+.recommenders/
+
+# Compiled Java & Maven/Gradle build folders
+bin/
+target/
+build/
+*.class
+*.jar
+*.war
+
+# OS & log files
+.DS_Store
+Thumbs.db
+*.log
